@@ -1,0 +1,28 @@
+{
+    "mapname": "Main Land",
+    "Description": "The syntax for the worldmap is: <item id> <x> <y> <z> please read the HOWTO.md to learn more!",
+    "can_build": 0,
+    "floor_size": 2000,
+    "floor_tex" : "http://www.abdreams.slpmx.com/GZ/Dirt.png",
+    "world_mp" : 1,
+    "worldmdl" : "http://www.abdreams.slpmx.com/GZ/bongz.obj",
+    "worldmtl" : "http://www.abdreams.slpmx.com/GZ/GZ.png",
+    "worldfog" : [ 45, 0, 123],
+    "u_spawns" : [0,3,0],
+    "has_fog"  : 0,
+    "has_part" : 1,
+    "particle" : [
+        "http://www.abdreams.slpmx.com/dreamcore_1.png",
+        "http://www.abdreams.slpmx.com/dreamcore_2.png"
+    ],
+    "worldmap": [
+        2,  1,  2.5,  8,
+        1,  0,    0,  0
+    ],
+    "interactive": [
+        "disabled", "http://www.abdreams.slpmx.com/boniNPC.obj", "http://www.abdreams.slpmx.com/t2ailskosex.png", 0, 0, 0, 0,
+        "https://www.youtube.com/watch?v=USxlXDjJbSI", "http://www.abdreams.slpmx.com/bunny_blend.obj", "http://www.abdreams.slpmx.com/p_texture.png", 1, 0.5, 1,45,
+        "https://www.youtube.com/watch?v=USxlXDjJbSI", "http://www.abdreams.slpmx.com/foxxo.obj", "http://www.abdreams.slpmx.com/foxxo.png", 4, 0.5, 1, 0    
+    ]
+}
+
